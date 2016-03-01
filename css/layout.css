@@ -19,7 +19,7 @@ body {
 
 .box {
   position: relative;
-  top: 30%;
+  top: 30px
   left: 5%;
   width:400px;
   float: left;
@@ -27,7 +27,7 @@ body {
 }
 
 .box:last-child {
-  top:30%;
+  top:30px;
   position: relative;
   left: 30%;
   width: 400px;
@@ -48,5 +48,5 @@ body {
 .footer {
   position:fixed;
   bottom: 0 px;
-  left: 0px;
+  right: 0px;
 }
