@@ -16,10 +16,11 @@ body {
 }
 
 .box {
-  position: fixed;
+  position: relative;
   left: 20%;
   width:400px;
   float: left;
+  margin: auto;
 }
 
 .box:last-child {
