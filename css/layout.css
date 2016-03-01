@@ -18,7 +18,8 @@ body {
 
 .box {
   position: relative;
-  left: 10%;
+  top: 10%;
+  left: 5%;
   width:400px;
   float: left;
   margin: auto;
@@ -26,7 +27,7 @@ body {
 
 .box:last-child {
   position: relative;
-  left: 40%;
+  left: 80%;
   width: 400px;
   float: left;
 }
