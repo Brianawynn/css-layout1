@@ -3,7 +3,7 @@
 
 body {
   
-  height:auto;
+
 }
 
 .heading {  
@@ -27,11 +27,12 @@ body {
 }
 
 .box:last-child {
-  bottom:70%;
+  top:30%;
   position: relative;
   left: 30%;
   width: 400px;
   margin: 5px;
+  float: left;
 
 }
 
