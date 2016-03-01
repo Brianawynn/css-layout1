@@ -7,17 +7,18 @@ body {
 }
 
 .heading {
-  position: fixed;
+ 
+}
+
+.heading h1 {
+   position: fixed;
   top:0px;
   left:0px;
 }
 
-.heading h1 {
-}
-
 .box {
   position: relative;
-  left: 20%;
+  left: 10%;
   width:400px;
   float: left;
   margin: auto;
