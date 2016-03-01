@@ -6,14 +6,15 @@ body {
   height:auto;
 }
 
-.heading {
+.heading {  
+  position: fixed;
+  top:0px;
+  left:0px;
  
 }
 
 .heading h1 {
-   position: fixed;
-  top:0px;
-  left:0px;
+ 
 }
 
 .box {
@@ -22,7 +23,7 @@ body {
   left: 5%;
   width:400px;
   float: left;
-  margin: auto;
+  margin:5px;
 }
 
 .box:last-child {
@@ -30,6 +31,7 @@ body {
   position: relative;
   left: 30%;
   width: 400px;
+  margin: 5px;
 
 }
 
