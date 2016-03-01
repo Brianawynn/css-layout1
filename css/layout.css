@@ -35,15 +35,20 @@ margin-right 0;
 }
 
 .box img {
+  width: 100%;
 }
 
 .box a.read-more {
+  display: block;
+  margin-top: 5px;
+  padding-top: 10px;
+  border-top:1px solid ;
 }
 
 .footer {
   position:fixed;
   bottom: 0 px;
-  right: 0px;
+  left: 0px;
   border-top: 2px solid;
   width: 100%;
   padding: 0 20px;
