@@ -3,6 +3,7 @@
 
 body {
   position: fixed;
+  height:auto;
 }
 
 .heading {
@@ -16,7 +17,6 @@ body {
 
 .box {
   position: relative;
-  top: 50%;
   left: 20%;
   width:400px;
   float: left;
@@ -39,6 +39,6 @@ body {
 
 .footer {
   position:fixed;
-  top: 0 px;
+  bottom: 0 px;
   left: 0px;
 }
