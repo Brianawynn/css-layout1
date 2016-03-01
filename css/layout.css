@@ -38,6 +38,6 @@ body {
 
 .footer {
   position:fixed;
-  bottom: 0 px;
+  top: 0 px;
   left: 0px;
 }
